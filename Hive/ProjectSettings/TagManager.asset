@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grabbable
+  - Enemy
+  - Ground
+  - Ball
+  - Stunner
+  - Ball
+  - Dash
+  - PassCollider
+  - Tutorial
+  - Message
+  - Goal
+  - EndScreen
+  - Cage
+  - Portal
+  - Transition
+  - ResetPanel
+  - Numbers
+  - WinCamera
+  - Filter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player
+  - PlayerDropDown
+  - DropDownPlatform
+  - Ball
+  - GhostBall
+  - MagnetIgnores
+  - PillarCollapse
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3190447911
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particles
+    uniqueID: 3838530443
+    locked: 0
+  - name: HUD
+    uniqueID: 2473547637
+    locked: 0

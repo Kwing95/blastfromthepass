@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 854cab0f2224dfc41a1f8cb84fca7cd2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tackle_box_prefab: {fileID: 2804524007218345317, guid: c551ca8b3c31e364d88b6caa6c8ec6c1,
+      type: 3}
+  - visual: {instanceID: 0}
+  - tackle_effect_prefab: {fileID: 4394491910450506621, guid: 25e4cd7853349b648b3af1ae821e7795,
+      type: 3}
+  - stun_effect_prefab: {fileID: 7194303825777383272, guid: 412fe02cefbcd2646939a6f083c96f1a,
+      type: 3}
+  - projection_dot: {fileID: 5080313223819029447, guid: c831e1a5a69fde047b9ed105e2ada08f,
+      type: 3}
+  - pointer_prefab: {fileID: 692487306444498692, guid: fb2b17108b9c0c94ba74f62c6735512d,
+      type: 3}
+  - dash_box_prefab: {fileID: 2804524007218345317, guid: 68137134e035814f9b08efa4c3d989af,
+      type: 3}
+  - bar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
